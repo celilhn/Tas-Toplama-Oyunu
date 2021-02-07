@@ -1,0 +1,20 @@
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.exe.config
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.exe
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.pdb
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csprojAssemblyReference.cache
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş_Toplama_Oyunu.Form1.resources
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş_Toplama_Oyunu.Properties.Resources.resources
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csproj.GenerateResource.cache
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.exe
+C:\Users\Celilhan\source\repos\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.pdb
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.exe.config
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.exe
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\bin\Debug\Taş Toplama Oyunu.pdb
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csprojAssemblyReference.cache
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş_Toplama_Oyunu.Form1.resources
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş_Toplama_Oyunu.Properties.Resources.resources
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csproj.GenerateResource.cache
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.exe
+C:\Users\Celilhan\Desktop\Projeler\Tas_Toplama_Oyunu\Taş Toplama Oyunu\obj\Debug\Taş Toplama Oyunu.pdb
